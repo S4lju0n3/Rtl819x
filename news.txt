@@ -1,0 +1,159 @@
+Gsm Tools Pro v5.4 Released
+
+» What's new
+=================
+
+- Add Language Arabic
+- one click No Root
+- Android Version
+- (Android 5.0 Lollipop)
+- (Android 6.0 Marshmallow)
+- (Android 7.0 Nougat)
+- (Android 8.0 Oreo)
+- (Android 9 Pie)
+
+=================
+
+- install Arabic Keyboard
+- install MoreLocale and  Show Language 
+- Add Diag Mode And show Spc For All
+
+=================
+
+- Fix HandsfreeActivation And 3G       
+- Add S8 Style
+- Root 
+- No Root
+
+=================
+
+» Remove Apps
+
+- [Remove] Verizon Apps
+- [Remove] AT&T Apps
+- [Remove] Sprint Apps
+- [Remove] Tracfone Apps
+- [Remove] T•••Mobile Apps
+- [Remove] China-Telecome Apps
+
+=================
+
+- [Fix] Hide Arabic Language For 8.0 
+After Turnning Power saving mode or Emergency Mode in (5s)
+
+=================
+
+» Fixes 
+
+- [Fix] Data verification error
+- [Fix] Data verification error
+
+=================
+
+support MTK
+
+- [MTK] Added support to reset FRP for more than 2000 supported model
+
+- [MTK] Added support to format (User-data - Cache - Nvdata) partitions for more than 2000 supported model
+
+- [MTK] Added support to Read / Flash Scatter firmware's for more than 2000 supported model
+
+- [MTK] Added support to format any partition for any supported model manually by the user
+
+- [MTK] Added support to Reset Screen-lock for more than 2000 supported model using 4 Methods
+  
+- Note:This Update is in Beta testing stage for MTK interface
+
+=================
+
+
+Gsm Tools Pro v2.9
+
+Features 
+
+Delete protection and Google accounts in ADB mode
+- Delete the FRP protection and Google formed via the connection vulnerability
+- Delete the lock screen code for Android phones in FRP = ON protection mode
+- Removing the screen lock icon in ADB mode requires root access
+- Delete the lock screen code in "TWRP" recovery, and you do not need root powers
+- Deleting the screen lock in "sideload mode" "needs a modified recovery"
+- Delete the screen lock code by a modified "BOOT" file that is made through the program
+
+Exit "Factory Mode" and "Safe Mode" without root
+- Make a complete format for the phone without root
+- Show all languages ??for Samsung phones without root
+- Activate the call recording feature for Samsung phones without root
+
+Activate the blacklist feature for Samsung phones without root
+- Stop system updates without root
+- Stop the "Anti-Malware" application without root
+- Add root permissions in "Normal, download, recovery, and Bootloader mode" modes
+Flashing and writing files for the phone in "sideload mode"
+
+Read full phone information in ADB mode
+- Read mobile applications in ADB mode
+- Delete the screen lock code "You need to root and activate ADB mode"
+- Make a complete format for the phone in ADB mode, "You do not need to root"
+- Show all languages ??for HTC phones "Do not need root"
+- Find "Length and Begin Address" to remove the FRP protection for your media phones
+- Make a backup copy of the NVM file for MTK phones without root
+Writing NVM files to NVM devices in ADB mode without root
+- Restart the phone from ADB mode to "Edl mode, recovery, Fastboot, Normal Mode"
+The second additional menu is "Fastboot"
+These are the most important processes and properties in them
+
+Read phone information in full without root
+- Reading phone information for "Hisilicon. Emmc" phones and processors
+- Make a complete format for the phone without dismantling the bootloader
+- Bootloader disassemble and reseal easily
+- Erase Boot, Recovery, System, Data, cache Partition areas
+- Restart from fastboot mode to "edl mode, bootloader, RUU, Normal Mode"
+- Flash some individual files such as (Flash boot, recovery, system, splash, radio, data)
+Flash files (system, boot, recovery, variant, data, cache, Preload) for NOKIA X / XL devices
+
+Unlimited And Free Bypass(without credit) Icloud Untethered 
+- [Apple] Added new interface for Apple features including the following options:
+- Bypass iCloud for GSM & MEID with the following features:
+Meid Without Network
+No meid With Network
+Meid= CDMA
+No Meid= Gsm
+---
+IOS 14.X
+IPHONE 6s
+IPHONE 6S PLUS
+IPHONE SE
+---
+IOS 13.X
+IPHONE 6S
+IPHONE 6S PLUS
+IPHONE 7 
+IPHONE 7 PLUS
+IPHONE 8
+IPHONE 8 PLUS
+IPHONE X
+Some Ipad
+---
+IOS 12.X 
+IPHONE 6G
+IPHONE 6 PLUS
+- Working features after Bypass
+WORKING Untethered
+WORKING 3G/4G/LTE
+WORKING iMessage
+WORKING FaceTime
+WORKING iCloud Sign In
+WORKING Notifications
+WORKING Calls/SMS
+WORKING CARRIER [GSM]
+WORKING MEID [NO CALL]
+WORKING fingerprint
+WORKING Face ID
+- Read info from iDevices
+RequirementsFor { Bypass iCloud at Hello Screen (Normal Mode) }:
+- JailBreak your IOS device
+- If your Device has MEID enabled:
+- The bypass will be without GSM Network
+- Put SIM Card with PIN into the device
+- Connect it to PC using usb cable
+- Wait until the device appears on PC then press Start
